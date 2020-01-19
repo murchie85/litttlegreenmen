@@ -1,4 +1,5 @@
-# 🌍 🌎Team Hunt 👽👽  The Open Source Community Driven Hunt for ET 
+# 🌍 🌎Team Hunt 👽👽  
+The Open Source Community Driven Hunt for ET 
 
 
 ![Alien](https://images.immediate.co.uk/production/volatile/sites/4/2019/09/GettyImages-471296532-c-db7bc08.jpg)
