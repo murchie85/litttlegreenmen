@@ -1,5 +1,5 @@
 # 🌍 🌎 [#Team Hunt](https://murchie85.github.io/) 👽👽  
-The Open Source Community Driven Hunt for ET 
+**The Open Source Community Driven Hunt for ET**
 
 
 ![Alien](https://images.wallpaperscraft.com/image/stars_space_galaxy_117958_2560x1080.jpg)
