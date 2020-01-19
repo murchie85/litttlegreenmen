@@ -13,6 +13,38 @@
 🇪🇸 ** ¡Bienvenido! ** Este es un lugar donde el público combina nuestros esfuerzos para comprender mejor nuestro lugar en el cosmos y promover la búsqueda de E.T. Todos los conjuntos de habilidades son bienvenidos (¡y necesarios!). Inicialmente, este proyecto incluirá la recopilación y limpieza de datos disponibles públicamente, análisis, aprendizaje automático y programación tradicional para buscar nuevos hallazgos.
 
 
+- [What can I do?](#What-Can-I-Do?)
+- [Where do I start?](#Where-Do-I-Start?)
+- [Rationale](#Rationale)
+- [Objectives](#Objectives)
+- [Tasks](#Tasks)
+- [STARTER RESOURCES](#STARTER-RESOURCES)
+
+# What-Can-I-Do?
+
+Anyone and everyone are welcome, since we have no idea what we can find *(or even how to find it)* , likely a variety of skilled poeple will make a difference. Below *in no special order* is a simple list of areas we will need help with
+
+- Events organisors
+- Data collectors 
+- Analytics
+- Science/Engineering specialists
+- Promotional Activities(Social Media outreach, advertising etc) 
+- Programing 
+- Data Cleanders 
+- Web Design
+- ML engineers
+- Data Scientists
+- Back end
+- Front end
+- Parsing/Scraping
+- Automation
+- Planning 
+
+# Where Do I Start?
+
+ Soon I will start weekly Google Hangouts and Reddit collaboration sessions, until then you can contact me directly, **Mail:**murchie85@gmail.com **Twitter:** @McMurchie **Facebook:** Adam McMurchie
+
+
 # Rationale
 
 Much has changed since the days of the **SETI@home** project back in 1999, where users could lease out their CPU runtime to SETI to run analytical process on radio signals. This was a superb early demonstration of p2p compute, yet the average person did not have much input into the process. 
@@ -22,7 +54,9 @@ Involving the public was a step in the right direction, it should now be built u
 Some of the best tools, projects, games are open source and produced by the public. Additionally given the recent advances in modern day computing, machine learning and the simplification of analytical techniques I believe we stand a real chance at moving the needle forward in our understanding of science and our place in the cosmos. 
 
 
-# DESIRED OUTCOMES
+# Objectives
+  
+The list below is a high level overview of the things we want to achieve but by no means complete, please add and contribute ideas to help grow our portfolio!  
 
 - **Spot irregularities:** Find new anomalies in pre-existing datasets 
 
@@ -31,6 +65,7 @@ Some of the best tools, projects, games are open source and produced by the publ
 - **Identify new phenomena:** This could include anything from new exoplanets to reclassifying types of noise into predictable causes. 
 
 - **Moon shot:** Classify potential artificial non-human signals, identify new astronomical or other phenomena. 
+  
 
 # TASKS
 
