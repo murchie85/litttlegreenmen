@@ -13,11 +13,11 @@
 🇪🇸 ** ¡Bienvenido! ** Este es un lugar donde el público combina nuestros esfuerzos para comprender mejor nuestro lugar en el cosmos y promover la búsqueda de E.T. Todos los conjuntos de habilidades son bienvenidos (¡y necesarios!). Inicialmente, este proyecto incluirá la recopilación y limpieza de datos disponibles públicamente, análisis, aprendizaje automático y programación tradicional para buscar nuevos hallazgos.
 
 
-- [What can I do?](#What-Can-I-Do?)
-- [Where do I start?](#Where-Do-I-Start?)
-- [Rationale](#Rationale)
-- [Objectives](#Objectives)
-- [Tasks](#Tasks)
+- [WHAT CAN I DO:](#What-Can-I-Do?)
+- [WHERE DO I START?](#Where-Do-I-Start?)
+- [RATIONALE](#Rationale)
+- [OBJECTIVES](#Objectives)
+- [TASKS](#Tasks)
 - [STARTER RESOURCES](#STARTER-RESOURCES)
 
 # What-Can-I-Do?
