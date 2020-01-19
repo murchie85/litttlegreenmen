@@ -2,7 +2,7 @@
 The Open Source Community Driven Hunt for ET 
 
 
-![Alien](https://images.immediate.co.uk/production/volatile/sites/4/2019/09/GettyImages-471296532-c-db7bc08.jpg)
+![Alien](https://images.wallpaperscraft.com/image/stars_space_galaxy_117958_2560x1080.jpg)
 
 🇬🇧 **Welcome!** This is a place where we the public combine our efforts to better understand our place in the cosmos and further the hunt for E.T. All skillsets are welcome (and needed!). This project will initially involve collection and cleaning of publicly available data, analytics, machine learning and traditional programming to look for new findings.   
 
