@@ -1,4 +1,4 @@
-# 🌍 🌎*[#Team Hunt](https://murchie85.github.io/)* 👽👽  
+# 🌍 🌎 [#Team Hunt](https://murchie85.github.io/) 👽👽  
 The Open Source Community Driven Hunt for ET 
 
 
