@@ -31,7 +31,7 @@
 | [STARTER RESOURCES](#STARTER-RESOURCES) |
 
 
-# What-Can-I-Do?
+# What Can I Do?
 
 Anyone and everyone are welcome, since we have no idea what we can find *(or even how to find it)* , likely a variety of skilled poeple will make a difference. Below *in no special order* is a simple list of areas we will need help with
 
