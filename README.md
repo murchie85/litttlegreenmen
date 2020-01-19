@@ -21,9 +21,9 @@
 - [STARTER RESOURCES](#STARTER-RESOURCES)
 
 
-| Tables        | 
+| NAVIGATION        | 
 | ------------- |
-| [WHAT CAN I DO?](#What-Can-I-Do?) |
+| [WHAT CAN I DO?](#What-Can-I-Do) |
 | [WHERE DO I START?](#Where-Do-I-Start?) |
 | [RATIONALE](#Rationale) |
 | [OBJECTIVES](#Objectives) |
