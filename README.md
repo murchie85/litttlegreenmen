@@ -24,15 +24,15 @@
 
 # What Can I Do?
 
-Anyone and everyone are welcome, since we have no idea what we can find *(or even how to find it)* , likely a variety of skilled poeple will make a difference. Below *in no special order* is a simple list of areas we will need help with
+Anyone and everyone are welcome, since we have no idea what we can find *(or even how to find it)* , likely a variety of skilled people will make a difference. Below *in no special order* is a simple list of areas we will need help with
 
-- Events organisors
+- Events organisers
 - Data collectors 
 - Analytics
 - Science/Engineering specialists
 - Promotional Activities(Social Media outreach, advertising etc) 
-- Programing 
-- Data Cleanders 
+- Programming 
+- Data Cleaners
 - Web Design
 - ML engineers
 - Data Scientists
